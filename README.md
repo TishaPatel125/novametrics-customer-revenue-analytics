@@ -91,8 +91,8 @@ Modern subscription (SaaS) businesses lose substantial annual recurring revenue 
 
 1. **Clone and create a virtual environment**:
    ```powershell
-   git clone https://github.com/yourusername/novametrics.git
-   cd novametrics
+   git clone https://github.com/TishaPatel125/novametrics-customer-revenue-analytics.git
+   cd novametrics-customer-revenue-analytics
    python -m venv .venv
    .venv\Scripts\activate
    ```
